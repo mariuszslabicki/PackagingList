@@ -22,10 +22,10 @@
 * Mydlo do rak do łazienki
 
 ## Kuchenne
-Sol
-Pieprz
-Przyprawy
+* Sol
+* Pieprz
+* Przyprawy
 
 ## Dla odważnych
-Maska
-Płetwy 
+* Maska
+* Płetwy 
